@@ -100,7 +100,6 @@ NOTE: Slides from this week were a continuation from Session 3
 **Assignment**
 * Assignment 4 - SparkML or Docker Container
   - Due on Thursday, March 31 
-  - Additional Docker content will be covered on Friday
   - Email me with any questions regarding the assignment. 
   - Please submit your code by email to d.zaratsian@gmail.com
 
