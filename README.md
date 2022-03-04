@@ -34,7 +34,7 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
 
-* Assignment 2 NoSQL - (Solution)
+* [Assignment 2 NoSQL](session_02/Assignment_2_NoSQL_(2022).ipynb) - (Solution)
   - Due on Tuesday, March 15 
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
