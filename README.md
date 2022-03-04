@@ -5,9 +5,7 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
 ---
 ## IAA Module - Session 1 - Distributed Services and Platform Overview
 
-**Asset Directory**
-
-**Slides**
+[**Slides**](https://docs.google.com/presentation/d/1CC03MXct8pW9DblZ4i7sICcYlbXg81xgyB1DLtDh_ig/edit?usp=sharing)
 
 * Introduction and Agenda
 * Distributed Computing
@@ -106,14 +104,15 @@ NOTE: Slides from this week were a continuation from Session 3
 ---
 
 ## References:
+
+* [Google Colab Notebooks](https://colab.sandbox.google.com)
+* [Google Vertex AI Platform](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform)
+* [Google Vertex Notebooks (Workbench)](https://cloud.google.com/vertex-ai/docs/workbench/introduction)
+* [Apache Zeppelin](https://zeppelin.apache.org/)
 * [Apache Spark Docs](https://spark.apache.org/docs/latest/)
 * [Google BigQuery](https://cloud.google.com/bigquery/what-is-bigquery)
 * [Google BigQuery Sandbox](https://console.cloud.google.com/bigquery)
 * [Apache Hive Docs](https://cwiki.apache.org/confluence/display/Hive/GettingStarted)
-* [Google Colab Notebooks](https://colab.sandbox.google.com)
-* [Google Cloud AI Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction)
-* [Google Cloud AI Platform](https://console.cloud.google.com/ai-platform/)
-* [Apache Zeppelin](https://zeppelin.apache.org/)
 * [Google Cloud Firestore](https://cloud.google.com/firestore/docs)
 * [Apache HBase Docs](https://hbase.apache.org/book.html)
 * [Apache Phoenix Docs](https://phoenix.apache.org/)
@@ -121,4 +120,5 @@ NOTE: Slides from this week were a continuation from Session 3
 * [Apache Kafka Docs](https://kafka.apache.org/20/documentation.html)
 * [Apache NiFi Docs](https://nifi.apache.org/docs.html)
 * [Docker Docs](https://docs.docker.com/)
+* [Google Deep Learning Containers](https://cloud.google.com/deep-learning-containers/docs/choosing-container)
 
