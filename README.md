@@ -16,7 +16,7 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
 
 ---
 ## IAA Module - Session 2 - SQL and NoSQL Services
-**Asset Directory**
+[**Asset Directory**](session_02)
 
 **Slides**
 
