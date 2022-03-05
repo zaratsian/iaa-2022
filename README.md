@@ -29,7 +29,7 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
 * Google Cloud Firestore (NoSQL)
 
 **Assignments**
-* Assignment 1 SQL - (Solution)
+* [Assignment 1 SQL](session_02/Assignment_1_SQL.md) - (Solution)
   - Due on Tuesday, March 15
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
