@@ -30,12 +30,12 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
 
 **Assignments**
 * [Assignment 1 SQL](session_02/Assignment_1_SQL.md) - (Solution)
-  - Due on Tuesday, March 15
+  - Due on Tuesday, March 15 by 11:59pm
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
 
 * [Assignment 2 NoSQL](session_02/Assignment_2_NoSQL_(2022).ipynb) - (Solution)
-  - Due on Tuesday, March 15 
+  - Due on Tuesday, March 15 by 11:59pm 
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
 
@@ -55,7 +55,7 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
 
 **Assignment** 
 * Assignment 3
-  - Due on Monday, March 21
+  - Due on Monday, March 21 by 11:59pm
   - Please complete as an individual assignment
   - Email your code to d.zaratsian@gmail.com
 
@@ -67,7 +67,6 @@ NOTE: Slides from this week were a continuation from Session 3
 * [Spark Pipeline Components](https://spark.apache.org/docs/latest/ml-pipeline.html#main-concepts-in-pipelines)
 * Spark Best Practices
 * Deploying / [Submitting Spark Applications](https://spark.apache.org/docs/latest/submitting-applications.html)
-* Scikit-learn Model Training (with [NFL Notebook](https://github.com/zaratsian/iaa_2021/blob/main/session_03/NFL_Predictions_Jupyter.ipynb))
 * [Scikit-learn Model Deployment Process](https://github.com/zaratsian/ML-Model-Deployment/tree/master/sklearn_nfl)
 
 ---
@@ -84,7 +83,7 @@ NOTE: Slides from this week were a continuation from Session 3
 * Apache Beam (Google Dataflow)
 
 ---
-## IAA Module - Session 6 - CloudML & Serveless Deployments
+## IAA Module - Session 6 - CloudML & Serverless Deployments
 **Asset Directory**
 
 **Slides**
@@ -97,7 +96,8 @@ NOTE: Slides from this week were a continuation from Session 3
 
 **Assignment**
 * Assignment 4 - SparkML or Docker Container
-  - Due on Thursday, March 31 
+  - This is a **TEAM** assignment.
+  - Due on Thursday, March 31 by 11:59pm
   - Email me with any questions regarding the assignment. 
   - Please submit your code by email to d.zaratsian@gmail.com
 
