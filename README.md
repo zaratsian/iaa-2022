@@ -18,7 +18,7 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
 ## IAA Module - Session 2 - SQL and NoSQL Services
 [**Asset Directory**](session_02)
 
-**Slides**
+[**Slides**](https://docs.google.com/presentation/d/1zB7K2ud91WOKuCENic4WNLz6lSqJ0yUbijYQJ3HbFU0/edit?usp=sharing)
 
 * Background starting with Hadoop
 * Intro to Apache Hive
