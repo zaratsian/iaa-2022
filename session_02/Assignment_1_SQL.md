@@ -29,13 +29,13 @@ docker run -p 8888:8888 jupyter/pyspark-notebook
 
 ## **Questions:**
 
-1. Which bike station in San Francisco is the most popular when starting point for a trip?
+1. Which bike station in San Francisco is the most popular starting point?
 
 
 2. Which routes are the most popular? Please list the top 5. A route is a defined as a (start_station_name, end_station_name).
 
 
-3. Which stations are the furthest distance apart? Hint: If you're using BigQuery, I'd recommend calculating the distance in meters based on the longitude and latitude of the start and end points ([reference](https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions))
+3. Which stations are the furthest distance apart? Hint: If you're using BigQuery, I'd recommend calculating the distance in meters based on the longitude and latitude of the start and end points ([reference](https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions)). Please provide the top 5 stations furthest apart. 
 
 
 -----------------
