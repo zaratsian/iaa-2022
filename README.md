@@ -41,9 +41,9 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
 
 ---
 ## IAA Module - Session 3 - Spark Data Processing & Machine Learning
-**Asset Directory**
+[**Asset Directory**](./session_03)
 
-**Slides**
+[**Slides**](https://docs.google.com/presentation/d/1JG4nMPv1ryovSpZG62XGS0frzpb0c82EEincZZ7acMU/edit?usp=sharing)
 
 * Apache Spark Overview
 * Spark Machine Learning (MLlib)
