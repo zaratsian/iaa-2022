@@ -53,9 +53,9 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
 * Spark Best Practices and Tuning
 * Spark Code Walk-through (within Google Colab)
 
-**Assignment** 
-* Assignment 3
-  - Due on Monday, March 21 by 11:59pm
+**Assignment**
+* [Assignment 3 - SparkML](session_03/Spark_ML_Assignment_(template).ipynb)
+  - Due on Tuesday, March 22 by 11:59pm
   - Please complete as an individual assignment
   - Email your code to d.zaratsian@gmail.com
 
