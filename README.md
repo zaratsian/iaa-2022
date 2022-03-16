@@ -60,20 +60,10 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
   - Email your code to d.zaratsian@gmail.com
 
 ---
-## IAA Module - Session 4 - SparkML & Scikit-learn Model Deployment
+## IAA Module - Session 4 - Realtime, Streaming Systems
+[**Asset Directory**](./session_04)
 
-NOTE: Slides from this week were a continuation from Session 3
-
-* [Spark Pipeline Components](https://spark.apache.org/docs/latest/ml-pipeline.html#main-concepts-in-pipelines)
-* Spark Best Practices
-* Deploying / [Submitting Spark Applications](https://spark.apache.org/docs/latest/submitting-applications.html)
-* [Scikit-learn Model Deployment Process](https://github.com/zaratsian/ML-Model-Deployment/tree/master/sklearn_nfl)
-
----
-## IAA Module - Session 5 - Realtime, Streaming Systems
-**Asset Directory**
-
-**Slides**
+[**Slides**](https://docs.google.com/presentation/d/1yyc1PyXpt-suETXmQJr2FF19lhANVRAQMdo5pujVSw0/edit?usp=sharing)
 
 * Apache Kafka
 * Google PubSub
@@ -83,7 +73,7 @@ NOTE: Slides from this week were a continuation from Session 3
 * Apache Beam (Google Dataflow)
 
 ---
-## IAA Module - Session 6 - CloudML & Serverless Deployments
+## IAA Module - Session 5 - CloudML & Serverless Deployments
 **Asset Directory**
 
 **Slides**
