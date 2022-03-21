@@ -73,23 +73,26 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
 * Apache Beam (Google Dataflow)
 
 ---
-## IAA Module - Session 5 - CloudML & Serverless Deployments
+## IAA Module - Session 5 - Cloud Machine Learning
+**Asset Directory**
+
+[**Slides**](https://docs.google.com/presentation/d/11Eu-KjMMDK98c_bMu4qhPhCL4j1wyeOVMiB9bJFONQM/edit?usp=sharing)
+
+* Overview of Google Cloud Machine Learning Services
+* [BigQueryML](https://cloud.google.com/bigquery-ml/docs/introduction)
+* [AutoML](https://cloud.google.com/automl)
+* [Google Vertex AI Platform](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform)
+* [Google Vertex Notebooks (Workbench)](https://cloud.google.com/vertex-ai/docs/workbench/introduction)
+
+---
+## IAA Module - Session 6 - Cloud Services & Serverless
 **Asset Directory**
 
 **Slides**
 
-* Overview of Google Cloud
-* [BigQueryML](https://cloud.google.com/bigquery-ml/docs/introduction)
-* [AutoML](https://cloud.google.com/automl)
-* Serverless functions with [Google Cloud Functions](https://cloud.google.com/functions)
-* Container Based Deployments
-
-**Assignment**
-* Assignment 4 - SparkML or Docker Container
-  - This is a **TEAM** assignment.
-  - Due on Thursday, March 31 by 11:59pm
-  - Email me with any questions regarding the assignment. 
-  - Please submit your code by email to d.zaratsian@gmail.com
+* Overview of Google Cloud Services
+* [Cloud Functions](https://cloud.google.com/functions)
+* [Cloud Run](https://cloud.google.com/run)
 
 ---
 
