@@ -83,16 +83,18 @@ Distributed Services for Machine Learning - Dan Zaratsian, March 2022
 * [AutoML](https://cloud.google.com/automl)
 * [Google Vertex AI Platform](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform)
 * [Google Vertex Notebooks (Workbench)](https://cloud.google.com/vertex-ai/docs/workbench/introduction)
+* [Google Deep Learning Containers](https://cloud.google.com/deep-learning-containers/docs/choosing-container)
 
 ---
 ## IAA Module - Session 6 - Cloud Services & Serverless
 **Asset Directory**
 
-**Slides**
+[**Slides**](https://docs.google.com/presentation/d/1avRm-Ezi4Zj4GiAMR55OgfWN13C7pnvWy6Ck4kya7zQ/edit?usp=sharing)
 
 * Overview of Google Cloud Services
 * [Cloud Functions](https://cloud.google.com/functions)
 * [Cloud Run](https://cloud.google.com/run)
+* [Docker Docs](https://docs.docker.com/)
 
 ---
 
